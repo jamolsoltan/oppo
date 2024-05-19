@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "url": "https://vpn.ao1testb.com//api_post.php",
-      "get_url": "https://vpn.ao1testb.com/api_get.php",
-      "url_server": "https://vpn.ao1testb.com/server_none.png",
-      "url_user": "https://vpn.ao1testb.com/user_ban.png"
+      "url": "https://app.soly.info//api_post.php",
+      "get_url": "https://app.soly.info/api_get.php",
+      "url_server": "https://app.soly.info/server_none.png",
+      "url_user": "https://app.soly.info/user_ban.png"
     }
   ]
 }
