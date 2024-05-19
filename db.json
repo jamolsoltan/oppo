@@ -1,0 +1,10 @@
+{
+  "address": [
+    {
+      "url": "https://vpn.ao1testb.com//api_post.php",
+      "get_url": "https://vpn.ao1testb.com/api_get.php",
+      "url_server": "https://vpn.ao1testb.com/server_none.png",
+      "url_user": "https://vpn.ao1testb.com/user_ban.png"
+    }
+  ]
+}
